@@ -1,0 +1,577 @@
+Date,Hour,Parameter,Units,Value
+02/22,11,Temperature,degreesF,27
+02/22,11,Surface Wind,mph,7
+02/22,11,Wind Direction,direction,SSW
+02/22,11,Gust,mph,0
+02/22,11,Sky Cover,pct,3
+02/22,11,Precipitation Potential,pct,0
+02/22,11,Relative Humitity,pct,71
+02/22,11,Mixing Height,x100ft,8
+02/22,12,Temperature,degreesF,33
+02/22,12,Surface Wind,mph,7
+02/22,12,Wind Direction,direction,SSW
+02/22,12,Gust,mph,0
+02/22,12,Sky Cover,pct,3
+02/22,12,Precipitation Potential,pct,0
+02/22,12,Relative Humitity,pct,64
+02/22,12,Mixing Height,x100ft,11
+02/22,13,Temperature,degreesF,37
+02/22,13,Surface Wind,mph,7
+02/22,13,Wind Direction,direction,SSW
+02/22,13,Gust,mph,0
+02/22,13,Sky Cover,pct,3
+02/22,13,Precipitation Potential,pct,0
+02/22,13,Relative Humitity,pct,62
+02/22,13,Mixing Height,x100ft,13
+02/22,14,Temperature,degreesF,39
+02/22,14,Surface Wind,mph,8
+02/22,14,Wind Direction,direction,SSW
+02/22,14,Gust,mph,0
+02/22,14,Sky Cover,pct,3
+02/22,14,Precipitation Potential,pct,0
+02/22,14,Relative Humitity,pct,63
+02/22,14,Mixing Height,x100ft,13
+02/22,15,Temperature,degreesF,42
+02/22,15,Surface Wind,mph,8
+02/22,15,Wind Direction,direction,SSW
+02/22,15,Gust,mph,0
+02/22,15,Sky Cover,pct,2
+02/22,15,Precipitation Potential,pct,0
+02/22,15,Relative Humitity,pct,61
+02/22,15,Mixing Height,x100ft,13
+02/22,16,Temperature,degreesF,42
+02/22,16,Surface Wind,mph,8
+02/22,16,Wind Direction,direction,SSW
+02/22,16,Gust,mph,0
+02/22,16,Sky Cover,pct,3
+02/22,16,Precipitation Potential,pct,0
+02/22,16,Relative Humitity,pct,63
+02/22,16,Mixing Height,x100ft,12
+02/22,17,Temperature,degreesF,41
+02/22,17,Surface Wind,mph,7
+02/22,17,Wind Direction,direction,SSW
+02/22,17,Gust,mph,0
+02/22,17,Sky Cover,pct,13
+02/22,17,Precipitation Potential,pct,0
+02/22,17,Relative Humitity,pct,64
+02/22,17,Mixing Height,x100ft,5
+02/22,18,Temperature,degreesF,38
+02/22,18,Surface Wind,mph,7
+02/22,18,Wind Direction,direction,S
+02/22,18,Gust,mph,0
+02/22,18,Sky Cover,pct,6
+02/22,18,Precipitation Potential,pct,0
+02/22,18,Relative Humitity,pct,70
+02/22,18,Mixing Height,x100ft,4
+02/22,19,Temperature,degreesF,33
+02/22,19,Surface Wind,mph,6
+02/22,19,Wind Direction,direction,S
+02/22,19,Gust,mph,0
+02/22,19,Sky Cover,pct,3
+02/22,19,Precipitation Potential,pct,0
+02/22,19,Relative Humitity,pct,77
+02/22,19,Mixing Height,x100ft,4
+02/22,20,Temperature,degreesF,32
+02/22,20,Surface Wind,mph,6
+02/22,20,Wind Direction,direction,S
+02/22,20,Gust,mph,0
+02/22,20,Sky Cover,pct,4
+02/22,20,Precipitation Potential,pct,0
+02/22,20,Relative Humitity,pct,80
+02/22,20,Mixing Height,x100ft,4
+02/22,21,Temperature,degreesF,30
+02/22,21,Surface Wind,mph,6
+02/22,21,Wind Direction,direction,S
+02/22,21,Gust,mph,0
+02/22,21,Sky Cover,pct,4
+02/22,21,Precipitation Potential,pct,0
+02/22,21,Relative Humitity,pct,83
+02/22,21,Mixing Height,x100ft,4
+02/22,22,Temperature,degreesF,30
+02/22,22,Surface Wind,mph,6
+02/22,22,Wind Direction,direction,SSW
+02/22,22,Gust,mph,0
+02/22,22,Sky Cover,pct,5
+02/22,22,Precipitation Potential,pct,0
+02/22,22,Relative Humitity,pct,82
+02/22,22,Mixing Height,x100ft,4
+02/22,23,Temperature,degreesF,29
+02/22,23,Surface Wind,mph,6
+02/22,23,Wind Direction,direction,SSW
+02/22,23,Gust,mph,0
+02/22,23,Sky Cover,pct,5
+02/22,23,Precipitation Potential,pct,0
+02/22,23,Relative Humitity,pct,86
+02/22,23,Mixing Height,x100ft,4
+02/23,00,Temperature,degreesF,28
+02/23,00,Surface Wind,mph,6
+02/23,00,Wind Direction,direction,SSW
+02/23,00,Gust,mph,0
+02/23,00,Sky Cover,pct,10
+02/23,00,Precipitation Potential,pct,0
+02/23,00,Relative Humitity,pct,86
+02/23,00,Mixing Height,x100ft,4
+02/23,01,Temperature,degreesF,28
+02/23,01,Surface Wind,mph,6
+02/23,01,Wind Direction,direction,SW
+02/23,01,Gust,mph,0
+02/23,01,Sky Cover,pct,16
+02/23,01,Precipitation Potential,pct,0
+02/23,01,Relative Humitity,pct,86
+02/23,01,Mixing Height,x100ft,4
+02/23,02,Temperature,degreesF,26
+02/23,02,Surface Wind,mph,6
+02/23,02,Wind Direction,direction,SW
+02/23,02,Gust,mph,0
+02/23,02,Sky Cover,pct,20
+02/23,02,Precipitation Potential,pct,0
+02/23,02,Relative Humitity,pct,89
+02/23,02,Mixing Height,x100ft,4
+02/23,03,Temperature,degreesF,26
+02/23,03,Surface Wind,mph,6
+02/23,03,Wind Direction,direction,SW
+02/23,03,Gust,mph,0
+02/23,03,Sky Cover,pct,25
+02/23,03,Precipitation Potential,pct,0
+02/23,03,Relative Humitity,pct,89
+02/23,03,Mixing Height,x100ft,4
+02/23,04,Temperature,degreesF,25
+02/23,04,Surface Wind,mph,6
+02/23,04,Wind Direction,direction,SW
+02/23,04,Gust,mph,0
+02/23,04,Sky Cover,pct,28
+02/23,04,Precipitation Potential,pct,0
+02/23,04,Relative Humitity,pct,91
+02/23,04,Mixing Height,x100ft,4
+02/23,05,Temperature,degreesF,24
+02/23,05,Surface Wind,mph,6
+02/23,05,Wind Direction,direction,SW
+02/23,05,Gust,mph,0
+02/23,05,Sky Cover,pct,30
+02/23,05,Precipitation Potential,pct,0
+02/23,05,Relative Humitity,pct,93
+02/23,05,Mixing Height,x100ft,4
+02/23,06,Temperature,degreesF,24
+02/23,06,Surface Wind,mph,6
+02/23,06,Wind Direction,direction,SSW
+02/23,06,Gust,mph,0
+02/23,06,Sky Cover,pct,35
+02/23,06,Precipitation Potential,pct,0
+02/23,06,Relative Humitity,pct,91
+02/23,06,Mixing Height,x100ft,4
+02/23,07,Temperature,degreesF,24
+02/23,07,Surface Wind,mph,6
+02/23,07,Wind Direction,direction,S
+02/23,07,Gust,mph,0
+02/23,07,Sky Cover,pct,40
+02/23,07,Precipitation Potential,pct,0
+02/23,07,Relative Humitity,pct,93
+02/23,07,Mixing Height,x100ft,4
+02/23,08,Temperature,degreesF,25
+02/23,08,Surface Wind,mph,6
+02/23,08,Wind Direction,direction,SSW
+02/23,08,Gust,mph,0
+02/23,08,Sky Cover,pct,51
+02/23,08,Precipitation Potential,pct,0
+02/23,08,Relative Humitity,pct,93
+02/23,08,Mixing Height,x100ft,3
+02/23,09,Temperature,degreesF,29
+02/23,09,Surface Wind,mph,6
+02/23,09,Wind Direction,direction,SW
+02/23,09,Gust,mph,0
+02/23,09,Sky Cover,pct,31
+02/23,09,Precipitation Potential,pct,0
+02/23,09,Relative Humitity,pct,86
+02/23,09,Mixing Height,x100ft,3
+02/23,10,Temperature,degreesF,35
+02/23,10,Surface Wind,mph,6
+02/23,10,Wind Direction,direction,SW
+02/23,10,Gust,mph,0
+02/23,10,Sky Cover,pct,29
+02/23,10,Precipitation Potential,pct,0
+02/23,10,Relative Humitity,pct,80
+02/23,10,Mixing Height,x100ft,6
+05/15,20,Temperature,degreesF,72
+05/15,20,Surface Wind,mph,14
+05/15,20,Wind Direction,direction,S
+05/15,20,Gust,mph,21
+05/15,20,Sky Cover,pct,4
+05/15,20,Precipitation Potential,pct,0
+05/15,20,Relative Humitity,pct,41
+05/15,20,Mixing Height,x100ft,5
+05/15,21,Temperature,degreesF,68
+05/15,21,Surface Wind,mph,13
+05/15,21,Wind Direction,direction,S
+05/15,21,Gust,mph,0
+05/15,21,Sky Cover,pct,3
+05/15,21,Precipitation Potential,pct,0
+05/15,21,Relative Humitity,pct,46
+05/15,21,Mixing Height,x100ft,5
+05/15,22,Temperature,degreesF,65
+05/15,22,Surface Wind,mph,11
+05/15,22,Wind Direction,direction,S
+05/15,22,Gust,mph,0
+05/15,22,Sky Cover,pct,3
+05/15,22,Precipitation Potential,pct,0
+05/15,22,Relative Humitity,pct,50
+05/15,22,Mixing Height,x100ft,5
+05/15,23,Temperature,degreesF,63
+05/15,23,Surface Wind,mph,10
+05/15,23,Wind Direction,direction,S
+05/15,23,Gust,mph,0
+05/15,23,Sky Cover,pct,4
+05/15,23,Precipitation Potential,pct,0
+05/15,23,Relative Humitity,pct,51
+05/15,23,Mixing Height,x100ft,5
+05/16,00,Temperature,degreesF,62
+05/16,00,Surface Wind,mph,10
+05/16,00,Wind Direction,direction,S
+05/16,00,Gust,mph,0
+05/16,00,Sky Cover,pct,3
+05/16,00,Precipitation Potential,pct,0
+05/16,00,Relative Humitity,pct,53
+05/16,00,Mixing Height,x100ft,5
+05/16,01,Temperature,degreesF,61
+05/16,01,Surface Wind,mph,10
+05/16,01,Wind Direction,direction,S
+05/16,01,Gust,mph,0
+05/16,01,Sky Cover,pct,4
+05/16,01,Precipitation Potential,pct,0
+05/16,01,Relative Humitity,pct,55
+05/16,01,Mixing Height,x100ft,5
+05/16,02,Temperature,degreesF,60
+05/16,02,Surface Wind,mph,10
+05/16,02,Wind Direction,direction,S
+05/16,02,Gust,mph,0
+05/16,02,Sky Cover,pct,4
+05/16,02,Precipitation Potential,pct,0
+05/16,02,Relative Humitity,pct,58
+05/16,02,Mixing Height,x100ft,5
+05/16,03,Temperature,degreesF,58
+05/16,03,Surface Wind,mph,10
+05/16,03,Wind Direction,direction,S
+05/16,03,Gust,mph,0
+05/16,03,Sky Cover,pct,4
+05/16,03,Precipitation Potential,pct,0
+05/16,03,Relative Humitity,pct,62
+05/16,03,Mixing Height,x100ft,5
+05/16,04,Temperature,degreesF,58
+05/16,04,Surface Wind,mph,11
+05/16,04,Wind Direction,direction,S
+05/16,04,Gust,mph,0
+05/16,04,Sky Cover,pct,4
+05/16,04,Precipitation Potential,pct,0
+05/16,04,Relative Humitity,pct,65
+05/16,04,Mixing Height,x100ft,5
+05/16,05,Temperature,degreesF,56
+05/16,05,Surface Wind,mph,10
+05/16,05,Wind Direction,direction,SSW
+05/16,05,Gust,mph,0
+05/16,05,Sky Cover,pct,2
+05/16,05,Precipitation Potential,pct,0
+05/16,05,Relative Humitity,pct,68
+05/16,05,Mixing Height,x100ft,6
+05/16,06,Temperature,degreesF,57
+05/16,06,Surface Wind,mph,10
+05/16,06,Wind Direction,direction,SW
+05/16,06,Gust,mph,0
+05/16,06,Sky Cover,pct,3
+05/16,06,Precipitation Potential,pct,0
+05/16,06,Relative Humitity,pct,64
+05/16,06,Mixing Height,x100ft,6
+05/16,07,Temperature,degreesF,56
+05/16,07,Surface Wind,mph,10
+05/16,07,Wind Direction,direction,WSW
+05/16,07,Gust,mph,0
+05/16,07,Sky Cover,pct,12
+05/16,07,Precipitation Potential,pct,0
+05/16,07,Relative Humitity,pct,64
+05/16,07,Mixing Height,x100ft,6
+05/16,08,Temperature,degreesF,60
+05/16,08,Surface Wind,mph,11
+05/16,08,Wind Direction,direction,W
+05/16,08,Gust,mph,0
+05/16,08,Sky Cover,pct,4
+05/16,08,Precipitation Potential,pct,0
+05/16,08,Relative Humitity,pct,56
+05/16,08,Mixing Height,x100ft,6
+05/16,09,Temperature,degreesF,67
+05/16,09,Surface Wind,mph,13
+05/16,09,Wind Direction,direction,WNW
+05/16,09,Gust,mph,0
+05/16,09,Sky Cover,pct,2
+05/16,09,Precipitation Potential,pct,0
+05/16,09,Relative Humitity,pct,47
+05/16,09,Mixing Height,x100ft,14
+05/16,10,Temperature,degreesF,72
+05/16,10,Surface Wind,mph,13
+05/16,10,Wind Direction,direction,WNW
+05/16,10,Gust,mph,0
+05/16,10,Sky Cover,pct,0
+05/16,10,Precipitation Potential,pct,0
+05/16,10,Relative Humitity,pct,39
+05/16,10,Mixing Height,x100ft,23
+05/16,11,Temperature,degreesF,75
+05/16,11,Surface Wind,mph,14
+05/16,11,Wind Direction,direction,NW
+05/16,11,Gust,mph,18
+05/16,11,Sky Cover,pct,1
+05/16,11,Precipitation Potential,pct,0
+05/16,11,Relative Humitity,pct,35
+05/16,11,Mixing Height,x100ft,36
+05/16,12,Temperature,degreesF,78
+05/16,12,Surface Wind,mph,15
+05/16,12,Wind Direction,direction,NW
+05/16,12,Gust,mph,20
+05/16,12,Sky Cover,pct,1
+05/16,12,Precipitation Potential,pct,0
+05/16,12,Relative Humitity,pct,32
+05/16,12,Mixing Height,x100ft,47
+05/16,13,Temperature,degreesF,80
+05/16,13,Surface Wind,mph,14
+05/16,13,Wind Direction,direction,NW
+05/16,13,Gust,mph,20
+05/16,13,Sky Cover,pct,1
+05/16,13,Precipitation Potential,pct,0
+05/16,13,Relative Humitity,pct,29
+05/16,13,Mixing Height,x100ft,61
+05/16,14,Temperature,degreesF,81
+05/16,14,Surface Wind,mph,15
+05/16,14,Wind Direction,direction,WNW
+05/16,14,Gust,mph,21
+05/16,14,Sky Cover,pct,1
+05/16,14,Precipitation Potential,pct,0
+05/16,14,Relative Humitity,pct,27
+05/16,14,Mixing Height,x100ft,79
+05/16,15,Temperature,degreesF,83
+05/16,15,Surface Wind,mph,15
+05/16,15,Wind Direction,direction,WNW
+05/16,15,Gust,mph,21
+05/16,15,Sky Cover,pct,1
+05/16,15,Precipitation Potential,pct,0
+05/16,15,Relative Humitity,pct,24
+05/16,15,Mixing Height,x100ft,87
+05/16,16,Temperature,degreesF,84
+05/16,16,Surface Wind,mph,16
+05/16,16,Wind Direction,direction,WNW
+05/16,16,Gust,mph,22
+05/16,16,Sky Cover,pct,1
+05/16,16,Precipitation Potential,pct,0
+05/16,16,Relative Humitity,pct,23
+05/16,16,Mixing Height,x100ft,91
+05/16,17,Temperature,degreesF,84
+05/16,17,Surface Wind,mph,15
+05/16,17,Wind Direction,direction,WNW
+05/16,17,Gust,mph,22
+05/16,17,Sky Cover,pct,2
+05/16,17,Precipitation Potential,pct,0
+05/16,17,Relative Humitity,pct,23
+05/16,17,Mixing Height,x100ft,93
+05/16,18,Temperature,degreesF,83
+05/16,18,Surface Wind,mph,14
+05/16,18,Wind Direction,direction,WNW
+05/16,18,Gust,mph,20
+05/16,18,Sky Cover,pct,1
+05/16,18,Precipitation Potential,pct,0
+05/16,18,Relative Humitity,pct,23
+05/16,18,Mixing Height,x100ft,72
+05/16,19,Temperature,degreesF,82
+05/16,19,Surface Wind,mph,13
+05/16,19,Wind Direction,direction,WNW
+05/16,19,Gust,mph,0
+05/16,19,Sky Cover,pct,2
+05/16,19,Precipitation Potential,pct,0
+05/16,19,Relative Humitity,pct,24
+05/16,19,Mixing Height,x100ft,17
+01/30,22,Temperature,degreesF,12
+01/30,22,Surface Wind,mph,13
+01/30,22,Wind Direction,direction,NNE
+01/30,22,Gust,mph,24
+01/30,22,Sky Cover,pct,33
+01/30,22,Precipitation Potential,pct,1
+01/30,22,Relative Humitity,pct,72
+01/30,22,Mixing Height,x100ft,19
+01/30,23,Temperature,degreesF,10
+01/30,23,Surface Wind,mph,13
+01/30,23,Wind Direction,direction,NNE
+01/30,23,Gust,mph,20
+01/30,23,Sky Cover,pct,27
+01/30,23,Precipitation Potential,pct,1
+01/30,23,Relative Humitity,pct,77
+01/30,23,Mixing Height,x100ft,19
+01/31,00,Temperature,degreesF,9
+01/31,00,Surface Wind,mph,11
+01/31,00,Wind Direction,direction,NNE
+01/31,00,Gust,mph,0
+01/31,00,Sky Cover,pct,20
+01/31,00,Precipitation Potential,pct,0
+01/31,00,Relative Humitity,pct,82
+01/31,00,Mixing Height,x100ft,10
+01/31,01,Temperature,degreesF,8
+01/31,01,Surface Wind,mph,9
+01/31,01,Wind Direction,direction,NNE
+01/31,01,Gust,mph,0
+01/31,01,Sky Cover,pct,18
+01/31,01,Precipitation Potential,pct,0
+01/31,01,Relative Humitity,pct,82
+01/31,01,Mixing Height,x100ft,7
+01/31,02,Temperature,degreesF,7
+01/31,02,Surface Wind,mph,7
+01/31,02,Wind Direction,direction,N
+01/31,02,Gust,mph,0
+01/31,02,Sky Cover,pct,15
+01/31,02,Precipitation Potential,pct,0
+01/31,02,Relative Humitity,pct,80
+01/31,02,Mixing Height,x100ft,6
+01/31,03,Temperature,degreesF,6
+01/31,03,Surface Wind,mph,6
+01/31,03,Wind Direction,direction,N
+01/31,03,Gust,mph,0
+01/31,03,Sky Cover,pct,13
+01/31,03,Precipitation Potential,pct,0
+01/31,03,Relative Humitity,pct,80
+01/31,03,Mixing Height,x100ft,6
+01/31,04,Temperature,degreesF,5
+01/31,04,Surface Wind,mph,6
+01/31,04,Wind Direction,direction,N
+01/31,04,Gust,mph,0
+01/31,04,Sky Cover,pct,12
+01/31,04,Precipitation Potential,pct,0
+01/31,04,Relative Humitity,pct,79
+01/31,04,Mixing Height,x100ft,4
+01/31,05,Temperature,degreesF,4
+01/31,05,Surface Wind,mph,5
+01/31,05,Wind Direction,direction,N
+01/31,05,Gust,mph,0
+01/31,05,Sky Cover,pct,10
+01/31,05,Precipitation Potential,pct,0
+01/31,05,Relative Humitity,pct,80
+01/31,05,Mixing Height,x100ft,4
+01/31,06,Temperature,degreesF,3
+01/31,06,Surface Wind,mph,3
+01/31,06,Wind Direction,direction,N
+01/31,06,Gust,mph,0
+01/31,06,Sky Cover,pct,9
+01/31,06,Precipitation Potential,pct,0
+01/31,06,Relative Humitity,pct,81
+01/31,06,Mixing Height,x100ft,4
+01/31,07,Temperature,degreesF,2
+01/31,07,Surface Wind,mph,2
+01/31,07,Wind Direction,direction,N
+01/31,07,Gust,mph,0
+01/31,07,Sky Cover,pct,15
+01/31,07,Precipitation Potential,pct,0
+01/31,07,Relative Humitity,pct,82
+01/31,07,Mixing Height,x100ft,4
+01/31,08,Temperature,degreesF,3
+01/31,08,Surface Wind,mph,2
+01/31,08,Wind Direction,direction,NNW
+01/31,08,Gust,mph,0
+01/31,08,Sky Cover,pct,14
+01/31,08,Precipitation Potential,pct,0
+01/31,08,Relative Humitity,pct,81
+01/31,08,Mixing Height,x100ft,4
+01/31,09,Temperature,degreesF,5
+01/31,09,Surface Wind,mph,2
+01/31,09,Wind Direction,direction,N
+01/31,09,Gust,mph,0
+01/31,09,Sky Cover,pct,25
+01/31,09,Precipitation Potential,pct,0
+01/31,09,Relative Humitity,pct,78
+01/31,09,Mixing Height,x100ft,8
+01/31,10,Temperature,degreesF,8
+01/31,10,Surface Wind,mph,5
+01/31,10,Wind Direction,direction,S
+01/31,10,Gust,mph,0
+01/31,10,Sky Cover,pct,21
+01/31,10,Precipitation Potential,pct,0
+01/31,10,Relative Humitity,pct,73
+01/31,10,Mixing Height,x100ft,13
+01/31,11,Temperature,degreesF,12
+01/31,11,Surface Wind,mph,6
+01/31,11,Wind Direction,direction,S
+01/31,11,Gust,mph,0
+01/31,11,Sky Cover,pct,20
+01/31,11,Precipitation Potential,pct,0
+01/31,11,Relative Humitity,pct,67
+01/31,11,Mixing Height,x100ft,15
+01/31,12,Temperature,degreesF,14
+01/31,12,Surface Wind,mph,7
+01/31,12,Wind Direction,direction,SSW
+01/31,12,Gust,mph,0
+01/31,12,Sky Cover,pct,29
+01/31,12,Precipitation Potential,pct,0
+01/31,12,Relative Humitity,pct,64
+01/31,12,Mixing Height,x100ft,17
+01/31,13,Temperature,degreesF,17
+01/31,13,Surface Wind,mph,8
+01/31,13,Wind Direction,direction,SSW
+01/31,13,Gust,mph,0
+01/31,13,Sky Cover,pct,58
+01/31,13,Precipitation Potential,pct,0
+01/31,13,Relative Humitity,pct,62
+01/31,13,Mixing Height,x100ft,20
+01/31,14,Temperature,degreesF,19
+01/31,14,Surface Wind,mph,8
+01/31,14,Wind Direction,direction,S
+01/31,14,Gust,mph,0
+01/31,14,Sky Cover,pct,79
+01/31,14,Precipitation Potential,pct,1
+01/31,14,Relative Humitity,pct,59
+01/31,14,Mixing Height,x100ft,20
+01/31,15,Temperature,degreesF,20
+01/31,15,Surface Wind,mph,9
+01/31,15,Wind Direction,direction,S
+01/31,15,Gust,mph,0
+01/31,15,Sky Cover,pct,84
+01/31,15,Precipitation Potential,pct,1
+01/31,15,Relative Humitity,pct,60
+01/31,15,Mixing Height,x100ft,18
+01/31,16,Temperature,degreesF,20
+01/31,16,Surface Wind,mph,9
+01/31,16,Wind Direction,direction,S
+01/31,16,Gust,mph,0
+01/31,16,Sky Cover,pct,91
+01/31,16,Precipitation Potential,pct,1
+01/31,16,Relative Humitity,pct,61
+01/31,16,Mixing Height,x100ft,17
+01/31,17,Temperature,degreesF,20
+01/31,17,Surface Wind,mph,10
+01/31,17,Wind Direction,direction,S
+01/31,17,Gust,mph,0
+01/31,17,Sky Cover,pct,76
+01/31,17,Precipitation Potential,pct,2
+01/31,17,Relative Humitity,pct,60
+01/31,17,Mixing Height,x100ft,14
+01/31,18,Temperature,degreesF,19
+01/31,18,Surface Wind,mph,10
+01/31,18,Wind Direction,direction,S
+01/31,18,Gust,mph,0
+01/31,18,Sky Cover,pct,97
+01/31,18,Precipitation Potential,pct,2
+01/31,18,Relative Humitity,pct,65
+01/31,18,Mixing Height,x100ft,11
+01/31,19,Temperature,degreesF,17
+01/31,19,Surface Wind,mph,10
+01/31,19,Wind Direction,direction,S
+01/31,19,Gust,mph,0
+01/31,19,Sky Cover,pct,97
+01/31,19,Precipitation Potential,pct,2
+01/31,19,Relative Humitity,pct,71
+01/31,19,Mixing Height,x100ft,6
+01/31,20,Temperature,degreesF,16
+01/31,20,Surface Wind,mph,10
+01/31,20,Wind Direction,direction,S
+01/31,20,Gust,mph,0
+01/31,20,Sky Cover,pct,90
+01/31,20,Precipitation Potential,pct,2
+01/31,20,Relative Humitity,pct,76
+01/31,20,Mixing Height,x100ft,6
+01/31,21,Temperature,degreesF,17
+01/31,21,Surface Wind,mph,10
+01/31,21,Wind Direction,direction,S
+01/31,21,Gust,mph,0
+01/31,21,Sky Cover,pct,82
+01/31,21,Precipitation Potential,pct,2
+01/31,21,Relative Humitity,pct,73
+01/31,21,Mixing Height,x100ft,8
